@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "nombre": "Antonio",
+    "apellido": "arcos",
+    "email": "123@gmail.com",
+    "carnet": "042973655asd",
+    "notas": {
+      "matematicas": [
+        10.0
+      ]
+    },
+    "materias": [
+      "matematicas"
+    ]
+  }
+]
